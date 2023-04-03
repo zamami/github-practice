@@ -3,3 +3,4 @@ add rebase2で行を追加しました。
 add rebase3ブランチで行を追加しました。
 add rebase3ブランチで行をさらに追加しました。
 スタッシュを実行する。
+git stach popを実行する。
